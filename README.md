@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stefan</h1>
-<h3 align="center">An aspiring Full-Stack Developer</h3>
+<h3 align="center">An aspiring Full-Stack Web Developer</h3>
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com)
 
